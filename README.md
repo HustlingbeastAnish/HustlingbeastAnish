@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=husltingbeastanish" alt="husltingbeastanish" /></a> </p>
 
-- 🔭 I’m currently working on [TracKnAttend](https://github.com/HusltingbeastAnish/WebApp)
+- 🔭 I’m currently working on a full stack Web-Application[TracKnAttend](https://github.com/HusltingbeastAnish/WebApp)
 
 - 👨‍💻 All of my projects are available at [https://anishnew2003.netlify.app](https://anishnew2003.netlify.app)
 
