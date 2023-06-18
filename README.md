@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husltingbeastanish&label=Profile%20views&color=0e75b6&style=flat" alt="husltingbeastanish" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=husltingbeastanish" alt="husltingbeastanish" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=husltingbeastanish" alt="hustlingbeastanish" /></a> </p>
 
 - 🔭 I’m currently working on a full stack Web-Application[TracKnAttend](https://github.com/HusltingbeastAnish/WebApp)
 
-- 👨‍💻 All of my projects are available at [https://anishnew2003.netlify.app](https://anishnew2003.netlify.app)
+- 👨‍💻 All of my projects are available at [https://anishnew2003.netlify.app](https://anishkrsingh.netlify.app)
 
 - 💬 Ask me about **React, Framer-Motion , Express, Node Etc**
 
