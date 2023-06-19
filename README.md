@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anish Kumar Singh</h1>
 <h3 align="center">An ambitious Web Developer from India</h3>
 
+<img align="middle" alt="Coding" width="1200" height="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xssgmzyj5ri709hzqsvd0ki9fsr22zpr89as44d9&rid=giphy.gif&ct=g">  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hustlingbeastanish&label=Profile%20views&color=0e75b6&style=flat" alt="hustlingbeastanish" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hustlingbeastanish" alt="hustlingbeastanish" /></a> </p>
