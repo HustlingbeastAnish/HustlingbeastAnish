@@ -3,12 +3,12 @@
 <h3 align="center">An ambitious Web Developer from India</h3>
 
 <img align="middle" alt="Coding" width="1200" height="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xssgmzyj5ri709hzqsvd0ki9fsr22zpr89as44d9&rid=giphy.gif&ct=g">  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hustlingbeastanish&label=Profile%20views&color=0e75b6&style=flat" alt="hustlingbeastanish" /> </p>
+ <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+    <p style="margin: 10px;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hustlingbeastanish&show_icons=true&locale=en&layout=compact" alt="hustlingbeastanish" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hustlingbeastanish" alt="hustlingbeastanish" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+    <p style="margin: 10px;"><img src="https://github-readme-stats.vercel.app/api?username=hustlingbeastanish&show_icons=true&locale=en" alt="hustlingbeastanish" /></p>
+    <p style="margin: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=hustlingbeastanish" alt="hustlingbeastanish" /></p>
+  </div>
 - 🔭 I’m currently working on **KlugSplit**
 
 - 👨‍💻 All of my projects are available at [https://anishkrsingh.netlify.app](https://anishkrsingh.netlify.app)
@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anish-kumar-singh-155334222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anish-kumar-singh-155334222/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/anish1602" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/anish1602" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/anishkumarsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/anishkumarsingh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/anishkrsingh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/anishkrsingh/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anish-kumar-singh-155334222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anish-kumar-singh-155334222" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/anish1602" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anish1602" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/anishkumarsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anishkumarsingh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anishkrsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anishkrsingh" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/anishkumarsingh45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/anishkumarsingh45" height="30" width="40" /></a>
 </p>
 
