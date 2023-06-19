@@ -3,11 +3,11 @@
 <h3 align="center">An ambitious Web Developer from India</h3>
 
 <img align="middle" alt="Coding" width="1200" height="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xssgmzyj5ri709hzqsvd0ki9fsr22zpr89as44d9&rid=giphy.gif&ct=g">  
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+<!--   <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
     <p style="margin: 10px;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hustlingbeastanish&show_icons=true&locale=en&layout=compact" alt="hustlingbeastanish" /></p>
     <p style="margin: 10px;"><img src="https://github-readme-stats.vercel.app/api?username=hustlingbeastanish&show_icons=true&locale=en" alt="hustlingbeastanish" /></p>
     <p style="margin: 10px;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hustlingbeastanish" alt="hustlingbeastanish" /></p>
-  </div>
+  </div> -->
 
 - 🔭 I’m currently working on **KlugSplit**
 
