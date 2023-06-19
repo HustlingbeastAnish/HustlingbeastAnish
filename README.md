@@ -3,6 +3,7 @@
   <h3 align="center">An ambitious Web Developer from India</h3>
 
   <img align="middle" alt="Coding" width="1200" height="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xssgmzyj5ri709hzqsvd0ki9fsr22zpr89as44d9&rid=giphy.gif&ct=g">  
+  
   - 🔭 I’m currently working on **KlugSplit**
 
   - 👨‍💻 All of my projects are available at [https://anishkrsingh.netlify.app](https://anishkrsingh.netlify.app)
