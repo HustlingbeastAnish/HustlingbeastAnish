@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on a full stack Web-Application[TracKnAttend](https://github.com/HusltingbeastAnish/WebApp)
 
-- 👨‍💻 All of my projects are available at [https://[anishnew2003.netlify.app](https://anishkrsingh.netlify.app/)](https://anishkrsingh.netlify.app)
+- 👨‍💻 All of my projects are available at [https://(https://anishkrsingh.netlify.app/)](https://anishkrsingh.netlify.app)
 
 - 💬 Ask me about **React, Framer-Motion , Express, Node Etc**
 
